@@ -27,6 +27,11 @@ def what_are_we_doing(param_list_1):
     another_list = [item + " lovable" for item in param_list_1]
     print(another_list)
 
+def generator_function():
+    pass
+# start from here :)
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     # print_hi('PyCharm')
